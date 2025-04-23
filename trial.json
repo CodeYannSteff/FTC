@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Item Alpha",
+        "description": "This is the first item."
+    },
+    {
+        "id": 2,
+        "name": "Item Beta"
+    },
+    {
+        "id": 3,
+        "name": "Item Gamma",
+        "description": "Another interesting item."
+    },
+    {
+        "id": 4,
+        "name": "Item NEMA",
+        "description": "Another HF."
+    }
+]
