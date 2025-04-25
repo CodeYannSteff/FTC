@@ -1,6 +1,22 @@
 {
   "events": [
      {
+      "id": "m9u8xnuqqpcfnl8ev4c",
+      "title": "Example Event ",
+      "date": "2025-04-23",
+      "image": "https://drive.google.com/thumbnail?id=1GgnlUDOBuvGtKQj90Se3bXEzcssJsIsg&sz=w1000",
+      "type": "education",
+      "season": "powerplay"
+    },
+    {
+      "id": "m9u8yxx3xbc6efkv2qb",
+      "title": "ev2",
+      "date": "2025-04-15",
+      "image": "https://drive.google.com/thumbnail?id=1GgnlUDOBuvGtKQj90Se3bXEzcssJsIsg&sz=w1000",
+      "type": "community",
+      "season": "intothedeep"
+    },
+     {
       "id": "m9ubs7xd8d64tj0mvks",
       "title": "qwe",
       "date": "2025-04-23",
