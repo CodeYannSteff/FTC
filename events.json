@@ -1,5 +1,13 @@
 {
   "events": [
+     {
+      "id": "m9ubs7xd8d64tj0mvks",
+      "title": "qwe",
+      "date": "2025-04-23",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/_78d88ace-5bcb-48d7-a520-a35e2fac8177.jpg",
+      "type": "competition",
+      "season": "intothedeep"
+    },
     {
       "id": "national-into-the-deep",
       "title": "National",
