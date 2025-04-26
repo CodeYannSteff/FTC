@@ -3,8 +3,16 @@
     {
       "id": "banana",
       "title": "Resistance of materials ",
-      "date": "2025-04-25",
+      "date": "2025-04-04",
       "image": "assets\\events\\Hide And Meet 2.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "date": "2025-01-06",
+      "image": "assets/events/test.webp",
       "type": "betterTogheter",
       "season": "intothedeep"
     }
