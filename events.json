@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "mega-mare-event",
+      "title": "Mega Mare Event",
+      "date": "2025-09-12",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Mega_Mare_Event.webp",
+      "type": "competition",
+      "season": "intothedeep"
+    },
+    {
       "id": "national-into-the-deep",
       "title": "National",
       "date": "2024-03-16",
