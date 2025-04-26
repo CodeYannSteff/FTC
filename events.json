@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "id": "world",
-      "title": "World",
-      "date": "2025-11-23",
-      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/World_1.webp",
-      "type": "education",
-      "season": "intothedeep"
-    },
-    {
       "id": "national-into-the-deep",
       "title": "National",
       "date": "2024-03-16",
