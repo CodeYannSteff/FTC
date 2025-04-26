@@ -479,14 +479,6 @@
       "image": "assets/events/SunTC.webp",
       "type": "betterTogheter",
       "season": "centerstage"
-    },
-    {
-      "id": "a-new-event-",
-      "title": "A new Event ",
-      "date": "2025-06-10",
-      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/A_new_Event_.webp",
-      "type": "education",
-      "season": "intothedeep"
     }
   ]
 }
