@@ -106,9 +106,9 @@
     },
     {
       "id": "kickoff-parinti",
-      "title": "Kickoff Părinți",
+      "title": "Kickoff P\u0103rin\u021bi",
       "date": "2023-11-17",
-      "image": "assets/events/Kickoff părinți_.webp",
+      "image": "assets/events/Kickoff p\u0103rin\u021bi_.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -138,7 +138,7 @@
     },
     {
       "id": "noaptea-cercetatorilor",
-      "title": "Noaptea Cercertătorilor",
+      "title": "Noaptea Cercert\u0103torilor",
       "date": "2023-09-27",
       "image": "assets/events/NoapteaCercetatorilor-26.webp",
       "type": "community",
@@ -170,7 +170,7 @@
     },
     {
       "id": "somes-tech-challenge",
-      "title": "Someș Tech Challenge",
+      "title": "Some\u0219 Tech Challenge",
       "date": "2023-07-28",
       "image": "assets/events/Somes Tech Challange.webp",
       "type": "competition",
@@ -178,9 +178,9 @@
     },
     {
       "id": "tabara-daruieste-bucurie",
-      "title": "Tabăra „Dăruiește Bucurie",
+      "title": "Tab\u0103ra \u201eD\u0103ruie\u0219te Bucurie",
       "date": "2023-07-16",
-      "image": "assets/events/Tabăra „Dăruiește Bucurie.webp",
+      "image": "assets/events/Tab\u0103ra \u201eD\u0103ruie\u0219te Bucurie.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -197,7 +197,7 @@
       "title": "Fabrica virtuala 2024",
       "date": "2023-06-06",
       "image": "assets/events/Fabrica Virtuala.webp",
-      "type": "education", 
+      "type": "education",
       "season": "intothedeep"
     },
     {
@@ -471,6 +471,14 @@
       "image": "assets/events/SunTC.webp",
       "type": "betterTogheter",
       "season": "centerstage"
+    },
+    {
+      "id": "a-new-event-",
+      "title": "A new Event ",
+      "date": "2025-06-10",
+      "image": "assets/events/A_new_Event_.webp",
+      "type": "education",
+      "season": "intothedeep"
     }
   ]
 }
