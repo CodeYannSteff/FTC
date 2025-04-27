@@ -4,7 +4,7 @@
       "id": "national-into-the-deep",
       "title": "National",
       "date": "2024-03-16",
-      "image": "assets/events/IntoTheDeepNational.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//IntoTheDeepNational.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -12,7 +12,7 @@
       "id": "upb-seminar",
       "title": "Seminar about resistance of materials",
       "date": "2024-02-21",
-      "image": "assets/events/upb.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//upb.webp",
       "type": "education",
       "season": "intothedeep"
     },
@@ -20,7 +20,7 @@
       "id": "regional-deep",
       "title": "Regional",
       "date": "2024-02-09",
-      "image": "assets/events/pozaRegioDeep.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//pozaRegioDeep.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -28,7 +28,7 @@
       "id": "eastern-arena",
       "title": "Eastern Arena",
       "date": "2024-02-01",
-      "image": "assets/events/Eeastern Arena.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Eeastern Arena.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -36,7 +36,7 @@
       "id": "practice-arra",
       "title": "Practice Arra",
       "date": "2024-01-29",
-      "image": "assets/events/practice arra 29 jan.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//practice arra 29 jan.webp",
       "type": "betterTogheter",
       "season": "intothedeep"
     },
@@ -44,7 +44,7 @@
       "id": "hide-and-meet-2",
       "title": "Hide & Meet",
       "date": "2024-01-12",
-      "image": "assets/events/Hide And Meet 2.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Hide And Meet 2.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -52,7 +52,7 @@
       "id": "practice-before-hide-meet",
       "title": "Practice Before Hide&Meet",
       "date": "2024-01-07",
-      "image": "assets/events/practice before hide&meet.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//practice before hide&meet.webp",
       "type": "betterTogheter",
       "season": "intothedeep"
     },
@@ -60,7 +60,7 @@
       "id": "vidraru-visit",
       "title": "Visit at Hidrocentrala Vidraru",
       "date": "2023-12-23",
-      "image": "assets/events/Vidraru.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Vidraru.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -68,7 +68,7 @@
       "id": "meet-south",
       "title": "Meet South",
       "date": "2023-12-15",
-      "image": "assets/events/Quantum 15 dec.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Quantum 15 dec.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -76,7 +76,7 @@
       "id": "galade",
       "title": "GalADE",
       "date": "2023-12-07",
-      "image": "assets/events/GalADE.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//GalADE.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -84,7 +84,7 @@
       "id": "speechless",
       "title": "Speechless",
       "date": "2023-11-24",
-      "image": "assets/events/Speechless (6 of 35).webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Speechless (6 of 35).webp",
       "type": "betterTogheter",
       "season": "intothedeep"
     },
@@ -92,7 +92,7 @@
       "id": "zilele-roboticii-3",
       "title": "Zilele Roboticii #3",
       "date": "2023-11-23",
-      "image": "assets/events/LM1-Zilele Robotici.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//LM1-Zilele Robotici.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -100,15 +100,15 @@
       "id": "practice-4d",
       "title": "Practice 4D",
       "date": "2023-11-22",
-      "image": "assets/events/Practice 4D.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Practice 4D.webp",
       "type": "betterTogheter",
       "season": "intothedeep"
     },
     {
       "id": "kickoff-parinti",
-      "title": "Kickoff P\u0103rin\u021bi",
+      "title": "Kickoff Părinți",
       "date": "2023-11-17",
-      "image": "assets/events/Kickoff p\u0103rin\u021bi_.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Kickoff părinți_.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -116,7 +116,7 @@
       "id": "mistery-coral-reef",
       "title": "Mistery of the coral Reef",
       "date": "2023-11-09",
-      "image": "assets/events/Mistery of the Coral Reef _.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Mistery of the Coral Reef _.webp",
       "type": "betterTogheter",
       "season": "intothedeep"
     },
@@ -124,7 +124,7 @@
       "id": "learning-circuit",
       "title": "Learning Circuit",
       "date": "2023-11-07",
-      "image": "assets/events/Learning Circuit.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Learning Circuit.webp",
       "type": "education",
       "season": "intothedeep"
     },
@@ -132,15 +132,15 @@
       "id": "halloween-2023",
       "title": "Halloween",
       "date": "2023-10-30",
-      "image": "assets/events/Halloween_.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Halloween_.webp",
       "type": "community",
       "season": "intothedeep"
     },
     {
       "id": "noaptea-cercetatorilor",
-      "title": "Noaptea Cercert\u0103torilor",
+      "title": "Noaptea Cercertătorilor",
       "date": "2023-09-27",
-      "image": "assets/events/NoapteaCercetatorilor-26.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//NoapteaCercetatorilor-26.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -148,7 +148,7 @@
       "id": "romanian-science-festival",
       "title": "Romanian Science Festival",
       "date": "2023-09-21",
-      "image": "assets/events/RSF.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//RSF.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -156,7 +156,7 @@
       "id": "kickoff-kickathon",
       "title": "Kickoff&Kickathon",
       "date": "2023-09-07",
-      "image": "assets/events/Kickathon.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Kickathon.webp",
       "type": "competition",
       "season": "intothedeep"
     },
@@ -164,23 +164,23 @@
       "id": "atlantykron-2023",
       "title": "Atlantykron",
       "date": "2023-08-09",
-      "image": "assets/events/Atlantykron.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Atlantykron.webp",
       "type": "community",
       "season": "intothedeep"
     },
     {
       "id": "somes-tech-challenge",
-      "title": "Some\u0219 Tech Challenge",
+      "title": "Someș Tech Challenge",
       "date": "2023-07-28",
-      "image": "assets/events/Somes Tech Challange.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Somes Tech Challange.webp",
       "type": "competition",
       "season": "intothedeep"
     },
     {
       "id": "tabara-daruieste-bucurie",
-      "title": "Tab\u0103ra \u201eD\u0103ruie\u0219te Bucurie",
+      "title": "Tabăra „Dăruiește Bucurie",
       "date": "2023-07-16",
-      "image": "assets/events/Tab\u0103ra \u201eD\u0103ruie\u0219te Bucurie.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Tabăra „Dăruiește Bucurie.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -188,7 +188,7 @@
       "id": "robotics-demo-arges-mall",
       "title": "Robotics Demo Arges Mall",
       "date": "2023-06-09",
-      "image": "assets/events/Arges Mall (539 of 542).webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Arges Mall (539 of 542).webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -196,15 +196,15 @@
       "id": "fabrica-virtuala",
       "title": "Fabrica virtuala 2024",
       "date": "2023-06-06",
-      "image": "assets/events/Fabrica Virtuala.webp",
-      "type": "education",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Fabrica Virtuala.webp",
+      "type": "education", 
       "season": "intothedeep"
     },
     {
       "id": "robotics-challenge-vivo",
       "title": "Robotics Challenge VIVO! Mall",
       "date": "2023-05-26",
-      "image": "assets/events/VIVO!.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//VIVO!.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -212,7 +212,7 @@
       "id": "ion-barbu",
       "title": "Liceul Teoretic\"Ion Barbu\"",
       "date": "2023-05-16",
-      "image": "assets/events/Barbu (1_2).webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Barbu (1_2).webp",
       "type": "education",
       "season": "intothedeep"
     },
@@ -220,7 +220,7 @@
       "id": "dinu-lipatti",
       "title": "Liceul de Arte \"Dinu Lipatti\"",
       "date": "2023-05-14",
-      "image": "assets/events/Lipatti.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Lipatti.webp",
       "type": "education",
       "season": "intothedeep"
     },
@@ -228,7 +228,7 @@
       "id": "ion-c-bratianu",
       "title": "Colegiul National \"Ion C Bratianu\"",
       "date": "2023-05-13",
-      "image": "assets/events/CNICB.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//CNICB.webp",
       "type": "education",
       "season": "intothedeep"
     },
@@ -236,7 +236,7 @@
       "id": "ziua-europei",
       "title": "Ziua Europei - BJ Arges",
       "date": "2023-05-09",
-      "image": "assets/events/Ziua Europei - BJ Arges.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Ziua Europei - BJ Arges.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -244,7 +244,7 @@
       "id": "olimpiada-mecanica",
       "title": "Olimpiada Nationala de Mecanica",
       "date": "2023-04-26",
-      "image": "assets/events/Olimpiada Nationala de Mecanica.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Olimpiada Nationala de Mecanica.webp",
       "type": "education",
       "season": "intothedeep"
     },
@@ -252,7 +252,7 @@
       "id": "polifest-bucuresti",
       "title": "PoliFest Bucuresti UNSTPB",
       "date": "2023-04-20",
-      "image": "assets/events/polifest bucuresti.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//polifest bucuresti.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -260,7 +260,7 @@
       "id": "polifest-pitesti",
       "title": "PoliFest Pitesti UNSTPB - CUPIT",
       "date": "2023-04-19",
-      "image": "assets/events/Polifest Pitesti.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Polifest Pitesti.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -268,7 +268,7 @@
       "id": "cs-national",
       "title": "National",
       "date": "2023-03-24",
-      "image": "assets/events/National.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//National.webp",
       "type": "competition",
       "season": "centerstage"
     },
@@ -276,7 +276,7 @@
       "id": "agexim-presentation",
       "title": "Agexim Presentation",
       "date": "2023-03-01",
-      "image": "assets/events/Agexim - Copy - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Agexim - Copy - Copy.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -284,7 +284,7 @@
       "id": "auzi-by-niki",
       "title": "Auzi by Niki",
       "date": "2023-02-29",
-      "image": "assets/events/Niki - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Niki - Copy.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -292,7 +292,7 @@
       "id": "smart-hub-visit",
       "title": "Smart Hub Visit",
       "date": "2023-02-29",
-      "image": "assets/events/Smart HUB.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Smart HUB.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -300,7 +300,7 @@
       "id": "brave-around-world",
       "title": "Brave around the world",
       "date": "2023-02-20",
-      "image": "assets/events/Brave.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Brave.webp",
       "type": "betterTogheter",
       "season": "centerstage"
     },
@@ -308,7 +308,7 @@
       "id": "goldplast-visit",
       "title": "Goldplast Visit",
       "date": "2023-02-23",
-      "image": "assets/events/Goldplast Visit - Copy - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Goldplast Visit - Copy - Copy.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -316,7 +316,7 @@
       "id": "regional-2023",
       "title": "Regional",
       "date": "2023-01-28",
-      "image": "assets/events/Regio 2023.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Regio 2023.webp",
       "type": "competition",
       "season": "centerstage"
     },
@@ -324,7 +324,7 @@
       "id": "hide-and-meet-1",
       "title": "HIDE & MEET",
       "date": "2023-01-13",
-      "image": "assets/events/Hide And Meet - Copy (2).webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Hide And Meet - Copy (2).webp",
       "type": "competition",
       "season": "centerstage"
     },
@@ -332,7 +332,7 @@
       "id": "practice-before-hm",
       "title": "Practice Before HIDE & MEET",
       "date": "2023-01-06",
-      "image": "assets/events/Practice H&M.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Practice H&M.webp",
       "type": "betterTogheter",
       "season": "centerstage"
     },
@@ -340,7 +340,7 @@
       "id": "practice-watt-up",
       "title": "Practice WATT's UP Robotics",
       "date": "2023-01-06",
-      "image": "assets/events/Practice WP.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Practice WP.webp",
       "type": "betterTogheter",
       "season": "centerstage"
     },
@@ -348,7 +348,7 @@
       "id": "sponsors-christmas",
       "title": "Sponsors Christmas Event",
       "date": "2022-12-22",
-      "image": "assets/events/Sponsor 2023.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Sponsor 2023.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -356,7 +356,7 @@
       "id": "christmas-market",
       "title": "Christmas Market CNICB",
       "date": "2022-12-18",
-      "image": "assets/events/Targ de craciun.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Targ de craciun.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -364,7 +364,7 @@
       "id": "winter-robotics",
       "title": "WINTER ROBOTICS",
       "date": "2022-12-16",
-      "image": "assets/events/Winter Robotics.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Winter Robotics.webp",
       "type": "competition",
       "season": "centerstage"
     },
@@ -372,7 +372,7 @@
       "id": "zilele-roboticii",
       "title": "\"Zilele Roboticii\"",
       "date": "2022-11-25",
-      "image": "assets/events/Zilele Roboticii.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Zilele Roboticii.webp",
       "type": "competition",
       "season": "centerstage"
     },
@@ -380,7 +380,7 @@
       "id": "smart-academy",
       "title": "Smart Academy of Languages",
       "date": "2022-11-10",
-      "image": "assets/events/Smart.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Smart.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -388,7 +388,7 @@
       "id": "goldplast-presentation",
       "title": "Goldplast Presentation",
       "date": "2022-11-02",
-      "image": "assets/events/Goldplast - Copy - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Goldplast - Copy - Copy.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -396,7 +396,7 @@
       "id": "halloween-2022",
       "title": "Halloween",
       "date": "2022-10-30",
-      "image": "assets/events/Halloween - Copy (2).webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Halloween - Copy (2).webp",
       "type": "betterTogheter",
       "season": "centerstage"
     },
@@ -404,7 +404,7 @@
       "id": "renault-engineering-day",
       "title": "Renault Engineering Day",
       "date": "2022-10-18",
-      "image": "assets/events/Renault.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Renault.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -412,7 +412,7 @@
       "id": "sicvrio-visit",
       "title": "SICVRIO Visit",
       "date": "2022-10-14",
-      "image": "assets/events/Sicviro.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Sicviro.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -420,7 +420,7 @@
       "id": "titans-academy",
       "title": "Titans Academy",
       "date": "2022-10-07",
-      "image": "assets/events/Titans.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Titans.webp",
       "type": "betterTogheter",
       "season": "centerstage"
     },
@@ -428,7 +428,7 @@
       "id": "parents-kickoff",
       "title": "Parents KickOff",
       "date": "2022-10-01",
-      "image": "assets/events/Parinti - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Parinti - Copy.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -436,7 +436,7 @@
       "id": "researchers-night",
       "title": "Researchers' Night UNSTPB-CUPIT",
       "date": "2022-09-29",
-      "image": "assets/events/Researchers.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Researchers.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -444,7 +444,7 @@
       "id": "pitesti-science-festival",
       "title": "Pitesti Sience Festival",
       "date": "2022-09-16",
-      "image": "assets/events/RSF.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//RSF.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -452,7 +452,7 @@
       "id": "kickoff-kickathon-2022",
       "title": "KickOff & KickAthon",
       "date": "2022-09-10",
-      "image": "assets/events/KickOff - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//KickOff - Copy.webp",
       "type": "competition",
       "season": "centerstage"
     },
@@ -460,7 +460,7 @@
       "id": "atlantykron-2022",
       "title": "Atlantykron",
       "date": "2022-08-02",
-      "image": "assets/events/Atlantykron - Copy - Copy.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//Atlantykron - Copy - Copy.webp",
       "type": "community",
       "season": "centerstage"
     },
@@ -468,7 +468,7 @@
       "id": "suntech-challenge",
       "title": "SunTech Challenge",
       "date": "2022-07-15",
-      "image": "assets/events/SunTC.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events//SunTC.webp",
       "type": "betterTogheter",
       "season": "centerstage"
     }
