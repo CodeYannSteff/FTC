@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "test-packadged-",
+      "title": "Test Packadged ",
+      "date": "2025-12-30",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Test_Packadged_.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
       "id": "national-into-the-deep",
       "title": "National",
       "date": "2024-03-16",
